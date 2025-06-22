@@ -21,7 +21,7 @@ We first evaluated **33 machine learning models** across all feature sets. Then,
 ## 🧩 Methodology Overview
 
 <p align="center">
-  <img src="figures/methodology.png" alt="AMP-RNNpro Methodology" width="700"/>
+  <img src="meth.png" alt="AMP-RNNpro Methodology" width="700"/>
 </p>
 
 
